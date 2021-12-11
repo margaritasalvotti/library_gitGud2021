@@ -19,7 +19,7 @@ def read_csv_pages(n):
             Return print('Pages can' be negative')
         i = 0
         for row in csv_reader:               # Iteration to get first 100 lines
-            if i < 100 and int(row[4]) < n:  # Select books with less than n pages
+            if i < 100 and int(row[4]) < n:  # Books with less than n pages
 
                 one = f'{row[0]} was written by '
                 two = f'{row[1]}'
