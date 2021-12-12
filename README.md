@@ -20,4 +20,4 @@ Sorry, Gabriele D'Annunzio is not present.
 ```
 
 **Optional**: you can consider to extend the given example adding other information about the books (e.g. year, editor, brief description, ...).
-You can also consider implementing an utility that reads from a csv file the data, or a database with library users.
+You can also consider implementing an utility that reads from a csv file the data, or a database with library users.a
